@@ -3552,5 +3552,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/play_jukebox_in_meadows": {
+    "criteria": {
+      "play_jukebox_in_meadows": "2023-06-18 15:52:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3463
 }

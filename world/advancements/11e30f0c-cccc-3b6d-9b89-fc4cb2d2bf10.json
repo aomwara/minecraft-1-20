@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-06-18 14:30:56 +0000",
+      "minecraft:river": "2023-06-18 15:12:43 +0000",
       "minecraft:stony_shore": "2023-06-16 15:16:19 +0000",
       "minecraft:dripstone_caves": "2023-06-16 15:59:53 +0000",
       "minecraft:cold_ocean": "2023-06-16 15:17:04 +0000",
@@ -1267,6 +1268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-06-18 15:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2023-06-18 14:41:08 +0000"
@@ -1336,6 +1343,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-06-18 14:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-06-18 15:18:32 +0000"
     },
     "done": true
   },
@@ -1450,6 +1463,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-06-18 14:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2023-06-18 15:48:28 +0000"
     },
     "done": true
   },
