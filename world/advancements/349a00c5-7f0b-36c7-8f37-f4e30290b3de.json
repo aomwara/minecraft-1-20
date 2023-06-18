@@ -2575,6 +2575,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:frog": "2023-06-18 18:03:16 +0000",
       "minecraft:sheep": "2023-06-13 14:51:52 +0000",
       "minecraft:cow": "2023-06-12 17:19:01 +0000",
       "minecraft:chicken": "2023-06-16 04:26:48 +0000",
@@ -3562,9 +3563,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tadpole_in_a_bucket": {
+    "criteria": {
+      "tadpole_bucket": "2023-06-18 18:10:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2023-06-18 16:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2023-06-18 18:08:17 +0000"
     },
     "done": true
   },
