@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-06-09 15:21:43 +0000",
+      "minecraft:old_growth_pine_taiga": "2023-06-18 17:28:03 +0000",
       "minecraft:taiga": "2023-06-09 17:03:18 +0000",
       "minecraft:frozen_river": "2023-06-10 17:42:39 +0000",
       "minecraft:cherry_grove": "2023-06-09 15:57:56 +0000",
@@ -19,8 +20,11 @@
       "minecraft:badlands": "2023-06-17 17:43:59 +0000",
       "minecraft:savanna_plateau": "2023-06-17 17:02:41 +0000",
       "minecraft:beach": "2023-06-10 17:36:19 +0000",
+      "minecraft:dark_forest": "2023-06-18 17:27:51 +0000",
+      "minecraft:mangrove_swamp": "2023-06-18 17:38:44 +0000",
       "minecraft:sparse_jungle": "2023-06-14 17:23:39 +0000",
       "minecraft:river": "2023-06-09 17:01:00 +0000",
+      "minecraft:lukewarm_ocean": "2023-06-18 17:33:13 +0000",
       "minecraft:stony_shore": "2023-06-09 15:20:19 +0000",
       "minecraft:snowy_plains": "2023-06-10 17:42:41 +0000",
       "minecraft:dripstone_caves": "2023-06-10 15:01:38 +0000",
@@ -3748,9 +3752,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2023-06-18 16:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2023-06-18 17:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2023-06-18 17:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/play_jukebox_in_meadows": {
     "criteria": {
       "play_jukebox_in_meadows": "2023-06-18 13:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2023-06-18 16:52:36 +0000"
     },
     "done": true
   },

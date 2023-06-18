@@ -18,8 +18,11 @@
       "minecraft:badlands": "2023-06-17 17:43:58 +0000",
       "minecraft:savanna_plateau": "2023-06-17 17:02:28 +0000",
       "minecraft:beach": "2023-06-13 16:03:53 +0000",
+      "minecraft:dark_forest": "2023-06-18 17:27:55 +0000",
+      "minecraft:mangrove_swamp": "2023-06-18 17:38:43 +0000",
       "minecraft:sparse_jungle": "2023-06-17 17:38:30 +0000",
       "minecraft:river": "2023-06-10 17:25:17 +0000",
+      "minecraft:lukewarm_ocean": "2023-06-18 17:36:26 +0000",
       "minecraft:stony_shore": "2023-06-09 15:21:20 +0000",
       "minecraft:dripstone_caves": "2023-06-09 15:27:00 +0000",
       "minecraft:grove": "2023-06-09 16:30:31 +0000",
@@ -28,6 +31,7 @@
       "minecraft:cold_ocean": "2023-06-11 07:46:11 +0000",
       "minecraft:forest": "2023-06-10 17:24:02 +0000",
       "minecraft:lush_caves": "2023-06-13 16:08:10 +0000",
+      "minecraft:deep_cold_ocean": "2023-06-18 17:26:21 +0000",
       "minecraft:desert": "2023-06-17 17:42:57 +0000",
       "minecraft:windswept_forest": "2023-06-13 16:01:25 +0000",
       "minecraft:ocean": "2023-06-13 16:40:15 +0000",
@@ -3555,6 +3559,24 @@
   "minecraft:adventure/play_jukebox_in_meadows": {
     "criteria": {
       "play_jukebox_in_meadows": "2023-06-18 15:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2023-06-18 16:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2023-06-18 17:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2023-06-18 16:28:36 +0000"
     },
     "done": true
   },
