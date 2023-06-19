@@ -327,10 +327,12 @@
       "apple": "2023-06-09 15:29:58 +0000",
       "cooked_cod": "2023-06-10 16:37:21 +0000",
       "bread": "2023-06-09 16:07:36 +0000",
+      "golden_apple": "2023-06-19 16:56:17 +0000",
       "rotten_flesh": "2023-06-09 15:32:22 +0000",
       "salmon": "2023-06-14 17:18:14 +0000",
       "golden_carrot": "2023-06-14 15:55:54 +0000",
       "cooked_chicken": "2023-06-09 16:16:58 +0000",
+      "enchanted_golden_apple": "2023-06-19 16:44:18 +0000",
       "cod": "2023-06-11 08:03:49 +0000",
       "cooked_salmon": "2023-06-14 13:39:34 +0000",
       "carrot": "2023-06-14 16:55:44 +0000"
@@ -3641,6 +3643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2023-06-19 16:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2023-06-19 15:46:34 +0000"
@@ -3692,6 +3700,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-06-19 15:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-06-19 16:44:14 +0000"
     },
     "done": true
   },
