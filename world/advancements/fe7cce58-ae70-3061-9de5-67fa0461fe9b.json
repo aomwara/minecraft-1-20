@@ -3752,15 +3752,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/play_jukebox_in_meadows": {
+    "criteria": {
+      "play_jukebox_in_meadows": "2023-06-18 13:28:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2023-06-18 16:50:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2023-06-18 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2023-06-18 17:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "tropical_fish_bucket": "2023-06-18 17:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2023-06-18 18:02:59 +0000"
     },
     "done": true
   },
@@ -3773,30 +3797,6 @@
   "minecraft:husbandry/tadpole_in_a_bucket": {
     "criteria": {
       "tadpole_bucket": "2023-06-18 18:10:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
-    "criteria": {
-      "has_light_blue_terracotta": "2023-06-18 17:49:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2023-06-18 18:02:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/play_jukebox_in_meadows": {
-    "criteria": {
-      "play_jukebox_in_meadows": "2023-06-18 13:28:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2023-06-18 16:52:36 +0000"
     },
     "done": true
   },

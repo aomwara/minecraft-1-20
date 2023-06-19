@@ -3563,21 +3563,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tadpole_in_a_bucket": {
-    "criteria": {
-      "tadpole_bucket": "2023-06-18 18:10:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2023-06-18 16:28:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_mud": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "has_mud": "2023-06-18 18:08:17 +0000"
+      "has_honeycomb": "2023-06-18 16:28:36 +0000"
     },
     "done": true
   },
@@ -3587,9 +3581,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
-      "has_honeycomb": "2023-06-18 16:28:36 +0000"
+      "has_mud": "2023-06-18 18:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tadpole_in_a_bucket": {
+    "criteria": {
+      "tadpole_bucket": "2023-06-18 18:10:03 +0000"
     },
     "done": true
   },
