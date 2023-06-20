@@ -3823,15 +3823,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/wax_off": {
-    "criteria": {
-      "wax_off": "2023-06-19 20:10:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/wax_on": {
     "criteria": {
       "wax_on": "2023-06-19 20:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2023-06-19 20:10:55 +0000"
     },
     "done": true
   },

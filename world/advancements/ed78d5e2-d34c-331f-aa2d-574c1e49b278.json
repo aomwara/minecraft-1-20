@@ -1191,6 +1191,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-06-19 16:14:53 +0000",
+      "minecraft:creeper": "2023-06-20 15:56:24 +0000",
       "minecraft:zombie": "2023-06-19 15:30:42 +0000"
     },
     "done": false
@@ -1921,21 +1922,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2023-06-19 17:20:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2023-06-19 17:19:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2023-06-19 17:20:31 +0000"
     },
     "done": true
   },
@@ -1951,21 +1940,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
-      "has_snowball": "2023-06-19 17:48:02 +0000"
+      "has_planks": "2023-06-19 17:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2023-06-19 17:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-19 17:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2023-06-19 17:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-19 17:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2023-06-19 17:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-19 17:20:31 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2023-06-19 17:20:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-06-19 17:19:26 +0000"
     },
     "done": true
   },
@@ -1981,45 +2000,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2023-06-19 17:33:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2023-06-19 17:20:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2023-06-19 17:19:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2023-06-19 17:31:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2023-06-19 17:19:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2023-06-19 17:31:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2023-06-19 17:19:26 +0000"
     },
     "done": true
   },
@@ -2035,21 +2018,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2023-06-19 17:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2023-06-19 17:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2023-06-19 17:31:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2023-06-19 17:31:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
+  "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
-      "has_planks": "2023-06-19 17:19:26 +0000"
+      "has_logs": "2023-06-19 17:33:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_planks": "2023-06-19 17:20:31 +0000"
+      "has_snowball": "2023-06-19 17:48:02 +0000"
     },
     "done": true
   },
@@ -2062,6 +2063,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2023-06-19 17:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-06-20 15:57:19 +0000"
     },
     "done": true
   },
