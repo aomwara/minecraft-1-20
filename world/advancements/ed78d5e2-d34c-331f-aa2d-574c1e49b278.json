@@ -8,9 +8,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-06-18 15:54:37 +0000",
+      "minecraft:deep_ocean": "2023-06-21 14:48:33 +0000",
       "minecraft:river": "2023-06-19 15:10:46 +0000",
+      "minecraft:stony_shore": "2023-06-21 13:21:15 +0000",
+      "minecraft:dripstone_caves": "2023-06-21 15:35:52 +0000",
       "minecraft:jagged_peaks": "2023-06-18 15:54:48 +0000",
       "minecraft:cold_ocean": "2023-06-20 16:08:51 +0000",
+      "minecraft:forest": "2023-06-21 14:51:05 +0000",
+      "minecraft:deep_cold_ocean": "2023-06-21 14:46:29 +0000",
+      "minecraft:ocean": "2023-06-21 14:48:01 +0000",
+      "minecraft:frozen_peaks": "2023-06-21 13:14:52 +0000",
       "minecraft:deep_dark": "2023-06-18 16:14:41 +0000",
       "minecraft:meadow": "2023-06-18 15:50:05 +0000",
       "minecraft:plains": "2023-06-18 15:32:47 +0000"
@@ -1195,9 +1202,12 @@
     "criteria": {
       "minecraft:pillager": "2023-06-20 16:25:58 +0000",
       "minecraft:skeleton": "2023-06-19 16:14:53 +0000",
+      "minecraft:ghast": "2023-06-21 13:19:46 +0000",
       "minecraft:vindicator": "2023-06-20 16:30:44 +0000",
       "minecraft:spider": "2023-06-20 15:59:06 +0000",
       "minecraft:creeper": "2023-06-20 15:56:24 +0000",
+      "minecraft:phantom": "2023-06-21 15:28:30 +0000",
+      "minecraft:zombified_piglin": "2023-06-21 13:18:08 +0000",
       "minecraft:witch": "2023-06-20 16:24:36 +0000",
       "minecraft:enderman": "2023-06-21 08:37:14 +0000",
       "minecraft:zombie": "2023-06-19 15:30:42 +0000",
@@ -2600,6 +2610,151 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2023-06-21 08:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-06-21 12:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-06-21 12:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-06-21 12:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-06-21 12:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2023-06-21 12:49:11 +0000",
+      "minecraft:ragdoll": "2023-06-21 14:52:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-06-21 13:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-06-21 14:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2023-06-21 15:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-06-21 15:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2023-06-21 15:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2023-06-21 15:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2023-06-21 15:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2023-06-21 15:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2023-06-21 15:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2023-06-21 15:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2023-06-21 15:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2023-06-21 15:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2023-06-21 15:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-06-21 15:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2023-06-21 15:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2023-06-21 15:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-06-21 15:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2023-06-21 15:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2023-06-21 15:05:07 +0000"
     },
     "done": true
   },

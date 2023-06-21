@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2023-06-09 15:57:52 +0000",
       "minecraft:taiga": "2023-06-10 17:25:47 +0000",
+      "minecraft:deep_ocean": "2023-06-21 14:48:29 +0000",
       "minecraft:eroded_badlands": "2023-06-17 17:46:21 +0000",
       "minecraft:cherry_grove": "2023-06-13 16:52:14 +0000",
       "minecraft:sunflower_plains": "2023-06-13 15:49:43 +0000",
@@ -27,8 +28,10 @@
       "minecraft:cold_ocean": "2023-06-09 16:53:52 +0000",
       "minecraft:forest": "2023-06-10 04:16:19 +0000",
       "minecraft:lush_caves": "2023-06-13 16:08:07 +0000",
+      "minecraft:deep_cold_ocean": "2023-06-21 14:46:45 +0000",
       "minecraft:desert": "2023-06-17 17:42:54 +0000",
       "minecraft:windswept_forest": "2023-06-13 16:01:27 +0000",
+      "minecraft:ocean": "2023-06-21 14:47:41 +0000",
       "minecraft:windswept_savanna": "2023-06-13 16:43:38 +0000",
       "minecraft:warm_ocean": "2023-06-17 17:45:28 +0000",
       "minecraft:flower_forest": "2023-06-13 15:49:08 +0000",
@@ -122,8 +125,10 @@
       "minecraft:phantom": "2023-06-17 06:14:07 +0000",
       "minecraft:zombified_piglin": "2023-06-18 16:14:50 +0000",
       "minecraft:husk": "2023-06-17 17:58:25 +0000",
+      "minecraft:enderman": "2023-06-21 15:00:34 +0000",
       "minecraft:vex": "2023-06-20 16:28:56 +0000",
       "minecraft:zombie": "2023-06-09 15:31:20 +0000",
+      "minecraft:drowned": "2023-06-21 14:47:58 +0000",
       "minecraft:zombie_villager": "2023-06-09 15:28:52 +0000"
     },
     "done": false
@@ -3012,6 +3017,132 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2023-06-20 16:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2023-06-21 15:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2023-06-21 15:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2023-06-21 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2023-06-21 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2023-06-21 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-21 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2023-06-21 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-21 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-21 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2023-06-21 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-21 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2023-06-21 15:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2023-06-21 15:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2023-06-21 15:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2023-06-21 15:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-06-21 15:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-06-21 15:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2023-06-21 15:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-06-21 15:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2023-06-21 15:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-06-21 15:30:25 +0000"
     },
     "done": true
   },
