@@ -11,3 +11,16 @@
 [06:52:48] [Server thread/INFO]: Villager byb['Librarian'/844386, l='ServerLevel[world]', x=344.44, y=92.00, z=-458.90] died, message: 'Librarian was shot by ratwc'
 [06:53:02] [Server thread/INFO]: ratwc lost connection: Disconnected
 [06:53:02] [Server thread/INFO]: ratwc left the game
+[08:29:06] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[08:31:59] [Server thread/INFO]: mboon[/184.22.226.174:53178] logged in with entity id 846275 at (270.1084909825074, 71.0625, -362.95181646048167)
+[08:31:59] [Server thread/INFO]: mboon joined the game
+[08:41:57] [Server thread/INFO]: mboon lost connection: Disconnected
+[08:41:57] [Server thread/INFO]: mboon left the game
+[11:11:38] [Server thread/INFO]: ratwc[/124.122.122.18:41018] logged in with entity id 850332 at (347.8047842266434, 94.0, -460.38462831673195)
+[11:11:38] [Server thread/INFO]: ratwc joined the game
+[11:12:50] [Server thread/INFO]: ratwc lost connection: Disconnected
+[11:12:50] [Server thread/INFO]: ratwc left the game
+[11:28:33] [Server thread/INFO]: ratwc[/124.122.122.18:49674] logged in with entity id 851402 at (313.9797678228154, 96.0, -450.8543913407475)
+[11:28:33] [Server thread/INFO]: ratwc joined the game
+[11:31:35] [Server thread/INFO]: ratwc lost connection: Disconnected
+[11:31:35] [Server thread/INFO]: ratwc left the game
