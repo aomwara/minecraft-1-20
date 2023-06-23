@@ -8,3 +8,32 @@
 [15:40:02] [Server thread/INFO]: kaminpum[/49.228.18.212:50484] logged in with entity id 977288 at (181.8265182988161, 95.0, -262.0716579347388)
 [15:40:02] [Server thread/INFO]: kaminpum joined the game
 [15:55:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[16:00:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:00:10] [Server thread/INFO]: Rocketeer1806 has made the advancement [Enchanter]
+[16:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3603ms or 72 ticks behind
+[16:00:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4759ms or 95 ticks behind
+[16:14:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=79, y=90, z=-300} gu{x=-30, y=68, z=-145}
+[16:14:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=79, y=90, z=-300} gu{x=-30, y=68, z=-145}
+[16:14:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=79, y=90, z=-300} gu{x=-30, y=68, z=-146}
+[16:14:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=79, y=90, z=-300} gu{x=-26, y=68, z=-143}
+[16:14:44] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=79, y=90, z=-300} gu{x=-24, y=67, z=-143}
+[16:14:45] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=79, y=90, z=-300} gu{x=-26, y=68, z=-143}
+[16:57:53] [Server thread/INFO]: [Not Secure] <ratwc> 29 -324
+[16:58:04] [Server thread/INFO]: [Not Secure] <Rocketeer1806> 29 -316
+[17:05:51] [Server thread/INFO]: [Not Secure] <ratwc> w
+[17:08:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[17:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[17:23:14] [Server thread/WARN]: ratwc moved too quickly! 0.0,-11.523684986416654,-0.053467988593070004
+[17:23:16] [Server thread/WARN]: ratwc moved too quickly! 0.0,-11.798174230684278,0.0
+[17:27:01] [Server thread/WARN]: ratwc moved too quickly! 0.0,-12.48751206236711,0.0
+[17:27:03] [Server thread/WARN]: ratwc moved too quickly! 0.0,-12.153971523372608,0.0
+[17:31:47] [Server thread/WARN]: ratwc moved too quickly! 0.0,-10.867409983895072,0.0
+[17:32:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[17:41:14] [Server thread/WARN]: ratwc moved too quickly! 0.0,-14.32169006526329,0.0
+[17:48:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:49:46] [Server thread/INFO]: Rocketeer1806 lost connection: Disconnected
+[17:49:46] [Server thread/INFO]: Rocketeer1806 left the game
+[17:52:03] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[17:52:03] [Server thread/INFO]: kaminpum left the game
+[17:52:09] [Server thread/INFO]: ratwc lost connection: Disconnected
+[17:52:09] [Server thread/INFO]: ratwc left the game
