@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2023-06-11 07:34:08 +0000",
       "minecraft:stony_shore": "2023-06-11 07:12:55 +0000",
+      "minecraft:dripstone_caves": "2023-06-24 17:03:04 +0000",
       "minecraft:grove": "2023-06-11 07:41:03 +0000",
       "minecraft:jagged_peaks": "2023-06-11 16:27:40 +0000",
       "minecraft:frozen_peaks": "2023-06-11 07:34:40 +0000",
@@ -101,6 +102,7 @@
       "baked_potato": "2023-06-11 07:28:17 +0000",
       "cooked_cod": "2023-06-12 15:52:40 +0000",
       "bread": "2023-06-19 15:39:11 +0000",
+      "cooked_chicken": "2023-06-24 18:08:01 +0000",
       "cod": "2023-06-13 14:15:51 +0000",
       "cooked_salmon": "2023-06-13 14:17:33 +0000"
     },
@@ -2726,6 +2728,18 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2023-06-20 17:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2023-06-24 17:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2023-06-24 17:35:33 +0000"
     },
     "done": true
   },

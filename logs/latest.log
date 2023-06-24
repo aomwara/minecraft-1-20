@@ -51,3 +51,42 @@
 [15:46:41] [Server thread/INFO]: [Not Secure] <ratwc> เดะอาบน้ำก่อนกูอะ
 [15:47:47] [Server thread/INFO]: ratwc lost connection: Disconnected
 [15:47:47] [Server thread/INFO]: ratwc left the game
+[16:13:01] [Server thread/INFO]: ratwc[/124.122.126.206:51128] logged in with entity id 1080828 at (342.69999998807907, 98.0, -472.3555529056292)
+[16:13:01] [Server thread/INFO]: ratwc joined the game
+[16:13:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[16:39:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:53:44] [Server thread/INFO]: damorz[/49.49.237.111:54452] logged in with entity id 1090988 at (334.40815530997037, 23.0, -430.7682925761104)
+[16:53:44] [Server thread/INFO]: damorz joined the game
+[17:09:04] [Server thread/INFO]: [Not Secure] <kaminpum> tinted glass
+[17:11:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:31:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[17:36:25] [Server thread/INFO]: Villager byb['Librarian'/1069446, l='ServerLevel[world]', x=345.50, y=97.06, z=-477.51] died, message: 'Librarian was shot by kaminpum'
+[17:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[17:44:13] [Server thread/INFO]: Villager byb['Librarian'/1069453, l='ServerLevel[world]', x=179.50, y=89.00, z=-331.46] died, message: 'Librarian was shot by kaminpum'
+[17:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[17:52:15] [Server thread/INFO]: Villager byb['Librarian'/1083230, l='ServerLevel[world]', x=179.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[17:52:46] [Server thread/INFO]: Villager byb['Librarian'/1069452, l='ServerLevel[world]', x=181.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[17:53:06] [Server thread/INFO]: Villager byb['Librarian'/1069450, l='ServerLevel[world]', x=177.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[17:58:55] [Server thread/INFO]: Villager byb['Librarian'/1110516, l='ServerLevel[world]', x=179.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[17:59:13] [Server thread/INFO]: Villager byb['Librarian'/1110556, l='ServerLevel[world]', x=177.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[17:59:58] [Server thread/INFO]: Villager byb['Librarian'/1110854, l='ServerLevel[world]', x=181.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[18:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[18:04:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4852ms or 97 ticks behind
+[18:10:51] [Server thread/INFO]: Villager byb['Librarian'/1114290, l='ServerLevel[world]', x=179.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[18:11:21] [Server thread/INFO]: Villager byb['Librarian'/1113444, l='ServerLevel[world]', x=177.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[18:11:59] [Server thread/INFO]: Villager byb['Librarian'/1113103, l='ServerLevel[world]', x=181.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[18:12:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[18:18:02] [Server thread/INFO]: Villager byb['Librarian'/1119585, l='ServerLevel[world]', x=177.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[18:18:12] [Server thread/INFO]: Villager byb['Librarian'/1119460, l='ServerLevel[world]', x=179.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[18:18:55] [Server thread/INFO]: Villager byb['Librarian'/1119469, l='ServerLevel[world]', x=181.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
+[18:29:48] [Server thread/INFO]: damorz fell from a high place
+[18:29:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
+[18:32:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:37:14] [Server thread/INFO]: ratwc lost connection: Disconnected
+[18:37:14] [Server thread/INFO]: ratwc left the game
+[18:37:15] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[18:37:15] [Server thread/INFO]: kaminpum left the game
+[18:37:39] [Server thread/INFO]: damorz lost connection: Timed out
+[18:37:39] [Server thread/INFO]: damorz left the game
+[18:37:39] [Server thread/WARN]: handleDisconnection() called twice
