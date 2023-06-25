@@ -1,92 +1,67 @@
-[01:23:47] [Server thread/INFO]: kaminpum[/49.228.18.212:56717] logged in with entity id 1012689 at (43.81665693408381, 99.0, -322.42216269820557)
-[01:23:47] [Server thread/INFO]: kaminpum joined the game
-[01:54:26] [Server thread/INFO]: kaminpum lost connection: Disconnected
-[01:54:26] [Server thread/INFO]: kaminpum left the game
-[04:01:32] [Server thread/INFO]: ratwc[/124.122.126.206:50888] logged in with entity id 1020288 at (93.47338557102384, 93.0, -320.2233015355279)
-[04:01:32] [Server thread/INFO]: ratwc joined the game
-[04:04:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[04:41:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[04:44:48] [Server thread/INFO]: ratwc lost connection: Disconnected
-[04:44:48] [Server thread/INFO]: ratwc left the game
-[06:22:21] [Server thread/INFO]: ratwc[/124.122.126.206:50995] logged in with entity id 1031952 at (343.1450430180968, 94.0, -460.30000001192093)
-[06:22:21] [Server thread/INFO]: ratwc joined the game
-[06:23:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[07:07:58] [Server thread/INFO]: ratwc lost connection: Disconnected
-[07:07:58] [Server thread/INFO]: ratwc left the game
-[07:09:05] [Server thread/INFO]: ratwc[/124.122.126.206:51018] logged in with entity id 1040737 at (349.74809843922486, 79.0, -92.14858714395248)
-[07:09:05] [Server thread/INFO]: ratwc joined the game
-[07:11:07] [Server thread/INFO]: ratwc lost connection: Disconnected
-[07:11:07] [Server thread/INFO]: ratwc left the game
-[07:11:10] [Server thread/INFO]: ratwc[/124.122.126.206:51026] logged in with entity id 1041834 at (267.30000001192093, 80.0, -113.69999998807907)
-[07:11:10] [Server thread/INFO]: ratwc joined the game
-[07:12:05] [Server thread/INFO]: ratwc lost connection: Disconnected
-[07:12:05] [Server thread/INFO]: ratwc left the game
-[07:34:16] [Server thread/INFO]: ratwc[/124.122.126.206:51046] logged in with entity id 1042637 at (273.55749358377255, 80.0, -89.4075188485166)
-[07:34:16] [Server thread/INFO]: ratwc joined the game
-[07:41:33] [Server thread/INFO]: ratwc lost connection: Disconnected
-[07:41:33] [Server thread/INFO]: ratwc left the game
-[08:01:35] [Server thread/INFO]: ratwc[/124.122.126.206:51060] logged in with entity id 1044749 at (339.1807107925353, 79.0, -89.77327379836123)
-[08:01:35] [Server thread/INFO]: ratwc joined the game
-[08:02:19] [Server thread/INFO]: ratwc lost connection: Disconnected
-[08:02:19] [Server thread/INFO]: ratwc left the game
-[12:27:45] [Server thread/INFO]: Rocketeer1806[/171.5.238.226:49684] logged in with entity id 1045883 at (175.14834459916028, 88.0, -320.9239730410519)
-[12:27:45] [Server thread/INFO]: Rocketeer1806 joined the game
-[12:37:21] [Server thread/INFO]: Rocketeer1806 has made the advancement [Bee Our Guest]
-[12:53:57] [Server thread/INFO]: Rocketeer1806 lost connection: Disconnected
-[12:53:57] [Server thread/INFO]: Rocketeer1806 left the game
-[13:10:09] [Server thread/INFO]: damorz[/49.49.237.111:63449] logged in with entity id 1053969 at (335.66435450204483, 23.0, -419.1546018801589)
-[13:10:09] [Server thread/INFO]: damorz joined the game
-[14:11:16] [Server thread/INFO]: damorz lost connection: Timed out
-[14:11:16] [Server thread/INFO]: damorz left the game
-[15:27:42] [Server thread/INFO]: ratwc[/124.122.126.206:51102] logged in with entity id 1068996 at (269.1714626667202, 82.0, -132.99367317609702)
-[15:27:42] [Server thread/INFO]: ratwc joined the game
-[15:37:44] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=169, y=99, z=-264} gu{x=168, y=99, z=-264}
-[15:40:27] [Server thread/INFO]: kaminpum[/49.228.18.212:51259] logged in with entity id 1075423 at (41.177735351651435, 15.0, -327.20262900688425)
-[15:40:27] [Server thread/INFO]: kaminpum joined the game
-[15:40:45] [Server thread/INFO]: [Not Secure] <kaminpum> Enter so fast naka
-[15:40:52] [Server thread/INFO]: [Not Secure] <ratwc> yeah
-[15:46:24] [Server thread/INFO]: [Not Secure] <ratwc> wat r u doing
-[15:46:29] [Server thread/INFO]: [Not Secure] <kaminpum> แปปป
-[15:46:33] [Server thread/INFO]: [Not Secure] <ratwc> ok
-[15:46:41] [Server thread/INFO]: [Not Secure] <ratwc> เดะอาบน้ำก่อนกูอะ
-[15:47:47] [Server thread/INFO]: ratwc lost connection: Disconnected
-[15:47:47] [Server thread/INFO]: ratwc left the game
-[16:13:01] [Server thread/INFO]: ratwc[/124.122.126.206:51128] logged in with entity id 1080828 at (342.69999998807907, 98.0, -472.3555529056292)
-[16:13:01] [Server thread/INFO]: ratwc joined the game
-[16:13:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[16:39:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:53:44] [Server thread/INFO]: damorz[/49.49.237.111:54452] logged in with entity id 1090988 at (334.40815530997037, 23.0, -430.7682925761104)
-[16:53:44] [Server thread/INFO]: damorz joined the game
-[17:09:04] [Server thread/INFO]: [Not Secure] <kaminpum> tinted glass
-[17:11:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[17:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[17:31:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
-[17:36:25] [Server thread/INFO]: Villager byb['Librarian'/1069446, l='ServerLevel[world]', x=345.50, y=97.06, z=-477.51] died, message: 'Librarian was shot by kaminpum'
-[17:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[17:44:13] [Server thread/INFO]: Villager byb['Librarian'/1069453, l='ServerLevel[world]', x=179.50, y=89.00, z=-331.46] died, message: 'Librarian was shot by kaminpum'
-[17:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[17:52:15] [Server thread/INFO]: Villager byb['Librarian'/1083230, l='ServerLevel[world]', x=179.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[17:52:46] [Server thread/INFO]: Villager byb['Librarian'/1069452, l='ServerLevel[world]', x=181.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[17:53:06] [Server thread/INFO]: Villager byb['Librarian'/1069450, l='ServerLevel[world]', x=177.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[17:58:55] [Server thread/INFO]: Villager byb['Librarian'/1110516, l='ServerLevel[world]', x=179.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[17:59:13] [Server thread/INFO]: Villager byb['Librarian'/1110556, l='ServerLevel[world]', x=177.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[17:59:58] [Server thread/INFO]: Villager byb['Librarian'/1110854, l='ServerLevel[world]', x=181.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[18:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[18:04:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4852ms or 97 ticks behind
-[18:10:51] [Server thread/INFO]: Villager byb['Librarian'/1114290, l='ServerLevel[world]', x=179.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[18:11:21] [Server thread/INFO]: Villager byb['Librarian'/1113444, l='ServerLevel[world]', x=177.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[18:11:59] [Server thread/INFO]: Villager byb['Librarian'/1113103, l='ServerLevel[world]', x=181.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[18:12:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[18:18:02] [Server thread/INFO]: Villager byb['Librarian'/1119585, l='ServerLevel[world]', x=177.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[18:18:12] [Server thread/INFO]: Villager byb['Librarian'/1119460, l='ServerLevel[world]', x=179.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[18:18:55] [Server thread/INFO]: Villager byb['Librarian'/1119469, l='ServerLevel[world]', x=181.50, y=88.00, z=-331.70] died, message: 'Librarian was slain by Zombie'
-[18:29:48] [Server thread/INFO]: damorz fell from a high place
-[18:29:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
-[18:32:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[18:37:14] [Server thread/INFO]: ratwc lost connection: Disconnected
-[18:37:14] [Server thread/INFO]: ratwc left the game
-[18:37:15] [Server thread/INFO]: kaminpum lost connection: Disconnected
-[18:37:15] [Server thread/INFO]: kaminpum left the game
-[18:37:39] [Server thread/INFO]: damorz lost connection: Timed out
-[18:37:39] [Server thread/INFO]: damorz left the game
-[18:37:39] [Server thread/WARN]: handleDisconnection() called twice
+[06:36:33] [Server thread/INFO]: ratwc[/124.122.122.254:51226] logged in with entity id 1128535 at (264.64374463561325, 80.0, -112.775440015253)
+[06:36:33] [Server thread/INFO]: ratwc joined the game
+[07:28:26] [Server thread/INFO]: ratwc lost connection: Disconnected
+[07:28:26] [Server thread/INFO]: ratwc left the game
+[07:29:02] [Server thread/INFO]: ratwc[/124.122.122.254:51257] logged in with entity id 1141609 at (357.8521121321657, 94.0, -471.0695308387391)
+[07:29:02] [Server thread/INFO]: ratwc joined the game
+[07:49:38] [Server thread/INFO]: ratwc lost connection: Disconnected
+[07:49:38] [Server thread/INFO]: ratwc left the game
+[07:49:43] [Server thread/INFO]: ratwc[/124.122.122.254:51285] logged in with entity id 1145553 at (208.87145507766792, 86.0, -335.076290390922)
+[07:49:43] [Server thread/INFO]: ratwc joined the game
+[07:51:20] [Server thread/INFO]: ratwc lost connection: Disconnected
+[07:51:20] [Server thread/INFO]: ratwc left the game
+[07:54:25] [Server thread/INFO]: ratwc[/124.122.122.254:51294] logged in with entity id 1146784 at (242.2367243514776, 85.0, -363.8964031811938)
+[07:54:25] [Server thread/INFO]: ratwc joined the game
+[08:16:21] [Server thread/INFO]: ratwc lost connection: Disconnected
+[08:16:21] [Server thread/INFO]: ratwc left the game
+[08:32:32] [Server thread/INFO]: kaminpum[/184.22.80.11:52957] logged in with entity id 1154127 at (331.8387105996543, 94.0, -455.3648384468794)
+[08:32:32] [Server thread/INFO]: kaminpum joined the game
+[08:50:52] [Server thread/INFO]: ratwc[/124.122.122.254:51320] logged in with entity id 1157568 at (178.55395069936887, 89.0, -329.3359616321553)
+[08:50:52] [Server thread/INFO]: ratwc joined the game
+[08:51:12] [Server thread/INFO]: [Not Secure] <kaminpum> เปนเหี้ยไร
+[08:51:51] [Server thread/INFO]: ratwc lost connection: Disconnected
+[08:51:51] [Server thread/INFO]: ratwc left the game
+[08:52:19] [Server thread/INFO]: ratwc[/124.122.122.254:51332] logged in with entity id 1157753 at (180.69999998807907, 89.5625, -330.69999998807907)
+[08:52:19] [Server thread/INFO]: ratwc joined the game
+[08:52:30] [Server thread/INFO]: [Not Secure] <ratwc> คอมค้าง
+[08:52:53] [Server thread/INFO]: [Not Secure] <kaminpum> 💀
+[08:54:01] [Server thread/INFO]: [Not Secure] <kaminpum> เวล 37 ละ
+[08:54:06] [Server thread/INFO]: [Not Secure] <kaminpum> 4 ตัวเร็วสัส
+[09:00:25] [Server thread/INFO]: [Not Secure] <kaminpum> uoouuu
+[09:00:50] [Server thread/INFO]: [Not Secure] <ratwc> เออเวลเร็วสัสหมา
+[09:01:12] [Server thread/INFO]: [Not Secure] <ratwc> แล้วจะบอกว่ากระดาษคือแลกไม่พออะ แบบกระดาษหมดก่อนตลอด
+[09:01:18] [Server thread/INFO]: [Not Secure] <kaminpum> กำ
+[09:01:22] [Server thread/INFO]: [Not Secure] <kaminpum> ทั้งฟาร์มอะนะ
+[09:01:28] [Server thread/INFO]: [Not Secure] <ratwc> ทั้งตัว ๆ
+[09:01:31] [Server thread/INFO]: [Not Secure] <kaminpum> อ่อ
+[09:01:33] [Server thread/INFO]: [Not Secure] <ratwc> แบบเต็มตัวอ่ะ
+[09:01:41] [Server thread/INFO]: [Not Secure] <ratwc> แลกสี่ตัวมะพอ
+[09:01:54] [Server thread/INFO]: [Not Secure] <kaminpum> 555555555555555
+[09:02:03] [Server thread/INFO]: [Not Secure] <kaminpum> ทำเพิ่มไป
+[09:02:35] [Server thread/INFO]: [Not Secure] <kaminpum> เดี้ยวมา
+[09:02:42] [Server thread/INFO]: [Not Secure] <ratwc> ไปไหน
+[09:02:46] [Server thread/INFO]: [Not Secure] <kaminpum> ขี้
+[09:15:06] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[09:15:06] [Server thread/INFO]: kaminpum left the game
+[09:53:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[10:08:44] [Server thread/INFO]: damorz[/49.49.232.109:54063] logged in with entity id 1177580 at (331.9351174862022, 23.0, -418.94090004592266)
+[10:08:44] [Server thread/INFO]: damorz joined the game
+[10:08:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[10:08:52] [Server thread/INFO]: [Not Secure] <damorz> hi
+[10:09:00] [Server thread/INFO]: [Not Secure] <ratwc> halo
+[10:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[10:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[10:22:15] [Server thread/INFO]: damorz lost connection: Timed out
+[10:22:15] [Server thread/INFO]: damorz left the game
+[10:23:32] [Server thread/INFO]: ratwc lost connection: Disconnected
+[10:23:32] [Server thread/INFO]: ratwc left the game
+[10:23:32] [Server thread/WARN]: handleDisconnection() called twice
+[10:35:05] [Server thread/INFO]: damorz[/49.49.235.188:56609] logged in with entity id 1182891 at (342.69999998807907, 22.0, -422.57065646227625)
+[10:35:05] [Server thread/INFO]: damorz joined the game
+[10:44:19] [Server thread/INFO]: [Not Secure] <damorz> ฟไกฟไก
+[11:04:55] [Server thread/INFO]: ratwc[/124.122.122.254:51440] logged in with entity id 1190024 at (172.64030137245896, 88.0, -321.72522152184536)
+[11:04:55] [Server thread/INFO]: ratwc joined the game
+[11:05:36] [Server thread/INFO]: ratwc lost connection: Disconnected
+[11:05:36] [Server thread/INFO]: ratwc left the game
+[11:20:40] [Server thread/INFO]: damorz lost connection: Timed out
+[11:20:40] [Server thread/INFO]: damorz left the game
