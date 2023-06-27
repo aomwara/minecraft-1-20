@@ -25,6 +25,7 @@
       "minecraft:river": "2023-06-10 17:25:17 +0000",
       "minecraft:lukewarm_ocean": "2023-06-18 17:36:26 +0000",
       "minecraft:stony_shore": "2023-06-09 15:21:20 +0000",
+      "minecraft:snowy_plains": "2023-06-27 16:33:19 +0000",
       "minecraft:dripstone_caves": "2023-06-09 15:27:00 +0000",
       "minecraft:snowy_taiga": "2023-06-25 16:04:39 +0000",
       "minecraft:grove": "2023-06-09 16:30:31 +0000",
@@ -4132,33 +4133,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2023-06-27 15:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2023-06-27 15:45:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2023-06-27 15:34:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2023-06-27 15:27:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2023-06-27 15:27:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2023-06-27 15:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2023-06-27 15:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2023-06-27 15:34:54 +0000"
     },
     "done": true
   },
@@ -4174,6 +4175,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-06-27 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2023-06-27 15:45:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2023-06-27 15:45:08 +0000"
@@ -4183,12 +4196,6 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2023-06-27 15:45:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2023-06-27 15:27:03 +0000"
     },
     "done": true
   },
@@ -4207,12 +4214,6 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2023-06-27 15:45:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2023-06-27 15:44:11 +0000"
     },
     "done": true
   },
