@@ -1,42 +1,10 @@
-[04:49:47] [Server thread/INFO]: kaminpum[/49.228.68.130:51332] logged in with entity id 1391901 at (202.69999998807907, -3.0, -797.597698404487)
-[04:49:48] [Server thread/INFO]: kaminpum joined the game
-[04:57:22] [Server thread/INFO]: kaminpum lost connection: Disconnected
-[04:57:22] [Server thread/INFO]: kaminpum left the game
-[05:06:27] [Server thread/INFO]: kaminpum[/49.228.68.130:51596] logged in with entity id 1395257 at (319.8680905654612, 102.0, -846.2258071731586)
-[05:06:27] [Server thread/INFO]: kaminpum joined the game
-[05:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[05:18:54] [Server thread/INFO]: kaminpum lost connection: Disconnected
-[05:18:54] [Server thread/INFO]: kaminpum left the game
-[15:23:05] [Server thread/INFO]: ratwc[/124.120.11.232:52801] logged in with entity id 1398809 at (193.1761343810951, -5.0, -808.2895617310794)
-[15:23:05] [Server thread/INFO]: ratwc joined the game
-[15:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
-[15:24:07] [Server thread/INFO]: ratwc lost connection: Disconnected
-[15:24:07] [Server thread/INFO]: ratwc left the game
-[15:25:56] [Server thread/INFO]: ratwc[/124.120.11.232:52807] logged in with entity id 1400135 at (264.7489143317489, 6.0, -890.7926691386762)
-[15:25:56] [Server thread/INFO]: ratwc joined the game
-[15:28:16] [Server thread/INFO]: ratwc lost connection: Disconnected
-[15:28:16] [Server thread/INFO]: ratwc left the game
-[15:31:00] [Server thread/INFO]: ratwc[/124.120.11.232:52818] logged in with entity id 1401785 at (208.6763476491117, 15.0, -900.3871801794884)
-[15:31:00] [Server thread/INFO]: ratwc joined the game
-[15:31:11] [Server thread/INFO]: ratwc lost connection: Disconnected
-[15:31:11] [Server thread/INFO]: ratwc left the game
-[15:31:11] [Server thread/INFO]: ratwc[/124.120.11.232:52819] logged in with entity id 1402117 at (208.6763476491117, 15.0, -900.3871801794884)
-[15:31:11] [Server thread/INFO]: ratwc joined the game
-[15:34:56] [Server thread/INFO]: damorz[/49.49.235.188:58216] logged in with entity id 1404338 at (331.3603071642754, 23.0, -428.0679177296732)
-[15:34:56] [Server thread/INFO]: damorz joined the game
-[15:38:40] [Server thread/INFO]: damorz lost connection: Disconnected
-[15:38:40] [Server thread/INFO]: damorz left the game
-[15:38:41] [Server thread/INFO]: kaminpum[/49.228.68.130:50284] logged in with entity id 1406627 at (97.22972062106464, 85.0, -330.0430698366999)
-[15:38:41] [Server thread/INFO]: kaminpum joined the game
-[15:38:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[15:44:18] [Server thread/INFO]: There are 2 of a max of 20 players online: ratwc, kaminpum
-[15:46:34] [Server thread/INFO]: mboon[/49.228.37.231:51327] logged in with entity id 1410312 at (172.27506016140424, 13.0, -822.7998630027419)
-[15:46:34] [Server thread/INFO]: mboon joined the game
-[15:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[15:48:14] [Server thread/INFO]: [mboon: Teleported mboon to kaminpum]
-[15:51:14] [Server thread/INFO]: mboon lost connection: Disconnected
-[15:51:14] [Server thread/INFO]: mboon left the game
-[16:21:19] [Server thread/INFO]: kaminpum lost connection: Disconnected
-[16:21:19] [Server thread/INFO]: kaminpum left the game
-[17:29:22] [Server thread/INFO]: ratwc lost connection: Timed out
-[17:29:22] [Server thread/INFO]: ratwc left the game
+[14:01:06] [Server thread/INFO]: ratwc[/124.120.11.232:52952] logged in with entity id 1423936 at (263.30000001192093, 80.0, -112.30000001192093)
+[14:01:06] [Server thread/INFO]: ratwc joined the game
+[14:11:39] [Server thread/INFO]: ratwc lost connection: Disconnected
+[14:11:39] [Server thread/INFO]: ratwc left the game
+[14:11:55] [Server thread/INFO]: ratwc[/124.120.11.232:52966] logged in with entity id 1428521 at (48.998105587089434, 50.0, -138.2617271142953)
+[14:11:55] [Server thread/INFO]: ratwc joined the game
+[14:20:43] [Server thread/INFO]: ratwc lost connection: Disconnected
+[14:20:43] [Server thread/INFO]: ratwc left the game
+[15:59:03] [Server thread/INFO]: ratwc[/124.120.11.232:53123] logged in with entity id 1432128 at (34.42456722714037, 64.0, -218.19237476016664)
+[15:59:03] [Server thread/INFO]: ratwc joined the game
