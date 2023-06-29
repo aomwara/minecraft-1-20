@@ -10,6 +10,7 @@
       "minecraft:snowy_slopes": "2023-06-09 15:26:52 +0000",
       "minecraft:old_growth_pine_taiga": "2023-06-13 16:02:24 +0000",
       "minecraft:taiga": "2023-06-10 17:25:54 +0000",
+      "minecraft:deep_ocean": "2023-06-29 16:29:30 +0000",
       "minecraft:frozen_river": "2023-06-25 16:04:46 +0000",
       "minecraft:cherry_grove": "2023-06-09 15:56:05 +0000",
       "minecraft:sunflower_plains": "2023-06-13 17:09:57 +0000",
@@ -41,6 +42,7 @@
       "minecraft:old_growth_spruce_taiga": "2023-06-25 16:11:54 +0000",
       "minecraft:windswept_savanna": "2023-06-13 16:43:31 +0000",
       "minecraft:warm_ocean": "2023-06-17 17:44:58 +0000",
+      "minecraft:deep_lukewarm_ocean": "2023-06-29 16:36:47 +0000",
       "minecraft:flower_forest": "2023-06-13 17:10:13 +0000",
       "minecraft:frozen_peaks": "2023-06-09 16:33:02 +0000",
       "minecraft:old_growth_birch_forest": "2023-06-13 16:43:19 +0000",
@@ -4214,6 +4216,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2023-06-27 15:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2023-06-29 16:38:25 +0000"
     },
     "done": true
   },

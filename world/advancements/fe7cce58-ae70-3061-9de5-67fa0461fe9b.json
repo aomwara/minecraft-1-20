@@ -10,6 +10,7 @@
       "minecraft:snowy_slopes": "2023-06-09 15:21:43 +0000",
       "minecraft:old_growth_pine_taiga": "2023-06-18 17:28:03 +0000",
       "minecraft:taiga": "2023-06-09 17:03:18 +0000",
+      "minecraft:deep_ocean": "2023-06-29 16:29:27 +0000",
       "minecraft:frozen_river": "2023-06-10 17:42:39 +0000",
       "minecraft:cherry_grove": "2023-06-09 15:57:56 +0000",
       "minecraft:sunflower_plains": "2023-06-13 15:50:44 +0000",
@@ -42,6 +43,7 @@
       "minecraft:jungle": "2023-06-14 17:18:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-06-25 16:15:55 +0000",
       "minecraft:windswept_savanna": "2023-06-13 16:43:38 +0000",
+      "minecraft:deep_lukewarm_ocean": "2023-06-29 16:36:41 +0000",
       "minecraft:flower_forest": "2023-06-13 15:47:02 +0000",
       "minecraft:frozen_peaks": "2023-06-09 16:35:17 +0000",
       "minecraft:old_growth_birch_forest": "2023-06-13 16:43:29 +0000",
@@ -4125,6 +4127,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2023-06-27 16:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2023-06-29 16:38:53 +0000"
     },
     "done": true
   },

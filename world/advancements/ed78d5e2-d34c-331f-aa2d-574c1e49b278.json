@@ -10,7 +10,9 @@
       "minecraft:snowy_slopes": "2023-06-18 15:54:37 +0000",
       "minecraft:taiga": "2023-06-21 16:25:35 +0000",
       "minecraft:deep_ocean": "2023-06-21 14:48:33 +0000",
+      "minecraft:beach": "2023-06-29 16:32:58 +0000",
       "minecraft:river": "2023-06-19 15:10:46 +0000",
+      "minecraft:lukewarm_ocean": "2023-06-29 16:33:35 +0000",
       "minecraft:stony_shore": "2023-06-21 13:21:15 +0000",
       "minecraft:snowy_plains": "2023-06-27 16:52:55 +0000",
       "minecraft:dripstone_caves": "2023-06-21 15:35:52 +0000",
@@ -19,6 +21,7 @@
       "minecraft:forest": "2023-06-21 14:51:05 +0000",
       "minecraft:deep_cold_ocean": "2023-06-21 14:46:29 +0000",
       "minecraft:ocean": "2023-06-21 14:48:01 +0000",
+      "minecraft:deep_lukewarm_ocean": "2023-06-29 16:36:46 +0000",
       "minecraft:frozen_peaks": "2023-06-21 13:14:52 +0000",
       "minecraft:deep_dark": "2023-06-18 16:14:41 +0000",
       "minecraft:meadow": "2023-06-18 15:50:05 +0000",
@@ -3049,6 +3052,109 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2023-06-27 17:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2023-06-29 16:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2023-06-29 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2023-06-29 16:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2023-06-29 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2023-06-29 16:34:02 +0000",
+      "ocean_ruin_warm": "2023-06-29 16:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-06-29 16:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-06-29 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2023-06-29 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2023-06-29 16:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2023-06-29 16:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2023-06-29 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-06-29 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-06-29 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-06-29 16:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2023-06-29 16:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2023-06-29 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2023-06-29 16:34:02 +0000"
     },
     "done": true
   },
