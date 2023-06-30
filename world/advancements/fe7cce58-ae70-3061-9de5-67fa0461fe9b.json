@@ -2102,8 +2102,10 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2023-06-25 09:03:25 +0000",
+      "minecraft:sniffer": "2023-06-30 16:27:06 +0000",
       "minecraft:cow": "2023-06-11 07:40:13 +0000",
-      "minecraft:bee": "2023-06-16 17:39:05 +0000"
+      "minecraft:bee": "2023-06-16 17:39:05 +0000",
+      "minecraft:axolotl": "2023-06-30 17:19:10 +0000"
     },
     "done": false
   },
@@ -4133,6 +4135,12 @@
   "minecraft:husbandry/obtain_sniffer_egg": {
     "criteria": {
       "obtain_sniffer_egg": "2023-06-29 16:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2023-06-30 15:59:51 +0000"
     },
     "done": true
   },
