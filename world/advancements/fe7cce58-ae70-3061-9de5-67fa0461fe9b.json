@@ -4138,9 +4138,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+  "minecraft:husbandry/plant_any_sniffer_seed": {
     "criteria": {
-      "has_pitcher_plant": "2023-06-30 15:59:51 +0000"
+      "torchflower": "2023-06-30 15:48:48 +0000"
     },
     "done": true
   },
@@ -4150,9 +4150,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_any_sniffer_seed": {
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
-      "torchflower": "2023-06-30 15:48:48 +0000"
+      "has_pitcher_plant": "2023-06-30 15:59:51 +0000"
     },
     "done": true
   },
