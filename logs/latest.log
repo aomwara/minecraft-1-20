@@ -49,3 +49,7 @@
 [10:34:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
 [10:40:36] [Server thread/INFO]: kaminpum lost connection: Disconnected
 [10:40:36] [Server thread/INFO]: kaminpum left the game
+[17:36:14] [Server thread/INFO]: ratwc[/124.120.6.172:50261] logged in with entity id 1734298 at (67.69999998807907, 93.0, -266.27100920838853)
+[17:36:14] [Server thread/INFO]: ratwc joined the game
+[17:37:26] [Server thread/INFO]: ratwc lost connection: Disconnected
+[17:37:26] [Server thread/INFO]: ratwc left the game
