@@ -1088,6 +1088,7 @@
       "minecraft:creeper": "2023-06-11 13:28:42 +0000",
       "minecraft:slime": "2023-06-20 17:20:17 +0000",
       "minecraft:phantom": "2023-06-14 16:57:07 +0000",
+      "minecraft:zombified_piglin": "2023-07-02 07:44:57 +0000",
       "minecraft:enderman": "2023-06-17 10:17:27 +0000",
       "minecraft:zombie": "2023-06-11 13:22:24 +0000",
       "minecraft:zombie_villager": "2023-06-24 13:22:32 +0000"
@@ -2948,15 +2949,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
-      "has_planks": "2023-07-01 18:59:24 +0000"
+      "has_shulker_shell": "2023-07-01 18:33:28 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2023-07-01 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2023-07-01 18:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2023-07-01 18:59:24 +0000"
     },
     "done": true
   },
@@ -2984,12 +2997,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2023-07-01 18:57:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2023-07-01 18:59:24 +0000"
@@ -3008,15 +3015,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2023-07-01 18:33:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2023-07-01 18:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-07-02 07:22:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-07-02 07:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-07-02 07:22:34 +0000"
     },
     "done": true
   },
