@@ -636,3 +636,7 @@
 [18:53:32] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=342, y=49, z=-1441} gu{x=343, y=47, z=-1442}
 [19:10:46] [Server thread/INFO]: damorz lost connection: Timed out
 [19:10:46] [Server thread/INFO]: damorz left the game
+[21:00:16] [Server thread/INFO]: kaminpum[/49.228.68.130:50592] logged in with entity id 1690797 at (97.54221281123989, 85.0, -318.0900009371154)
+[21:00:16] [Server thread/INFO]: kaminpum joined the game
+[21:01:42] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[21:01:42] [Server thread/INFO]: kaminpum left the game
