@@ -1,55 +1,11 @@
-[06:03:50] [Server thread/INFO]: kaminpum[/49.228.32.174:51430] logged in with entity id 1691914 at (96.99083178482644, 82.0, -339.7054809193789)
-[06:03:50] [Server thread/INFO]: kaminpum joined the game
-[06:23:16] [Server thread/INFO]: kaminpum lost connection: Disconnected
-[06:23:16] [Server thread/INFO]: kaminpum left the game
-[06:28:13] [Server thread/INFO]: kaminpum[/49.228.32.174:53541] logged in with entity id 1700611 at (-1064.699999988079, 61.0, -3.300000011920929)
-[06:28:13] [Server thread/INFO]: kaminpum joined the game
-[06:55:23] [Server thread/INFO]: kaminpum was slain by Shulker
-[06:57:35] [Server thread/INFO]: Made kaminpum a server operator
-[06:57:42] [Server thread/INFO]: [kaminpum: Set own game mode to Creative Mode]
-[06:58:02] [Server thread/INFO]: [kaminpum: Applied effect Speed to kaminpum]
-[07:07:39] [Server thread/INFO]: [kaminpum: Set own game mode to Survival Mode]
-[07:07:45] [Server thread/INFO]: [kaminpum: Removed every effect from kaminpum]
-[07:14:05] [Server thread/INFO]: kaminpum was slain by Enderman
-[07:14:20] [Server thread/INFO]: [kaminpum: Set own game mode to Creative Mode]
-[07:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
-[07:17:01] [Server thread/WARN]: kaminpum moved too quickly! 16.33021619637566,2.4052766527396443,-8.169661100418487
-[07:18:30] [Server thread/INFO]: damorz[/49.49.235.188:60748] logged in with entity id 1718487 at (341.3455780572113, 68.0, -1443.6518206727806)
-[07:18:30] [Server thread/INFO]: damorz joined the game
-[07:18:31] [Server thread/WARN]: kaminpum moved too quickly! 17.29574498112197,0.3248867675973486,-6.534911544027523
-[07:18:37] [Server thread/INFO]: [Not Secure] <damorz> Hi
-[07:18:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[07:18:44] [Server thread/INFO]: [Not Secure] <kaminpum> may be lag na
-[07:18:50] [Server thread/INFO]: [Not Secure] <damorz> why
-[07:18:55] [Server thread/INFO]: [Not Secure] <kaminpum> dead in the end
-[07:19:00] [Server thread/INFO]: [Not Secure] <damorz> oh ok
-[07:19:07] [Server thread/INFO]: [Not Secure] <damorz> do we gonna talk ?
-[07:19:10] [Server thread/INFO]: [Not Secure] <damorz> or no
-[07:19:13] [Server thread/INFO]: [Not Secure] <kaminpum> but now flying in creative to recovery items
-[07:19:21] [Server thread/INFO]: [Not Secure] <kaminpum> nopeๆ
-[07:19:25] [Server thread/INFO]: [Not Secure] <damorz> okie
-[07:22:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
-[07:22:34] [Server thread/INFO]: damorz has made the advancement [We Need to Go Deeper]
-[07:22:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
-[07:22:42] [Server thread/INFO]: [kaminpum: Set own game mode to Survival Mode]
-[07:22:58] [Server thread/WARN]: kaminpum moved too quickly! -2.621093364013859,-1.9261129682841016,-17.28535225419398
-[07:22:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
-[07:23:40] [Server thread/INFO]: [Not Secure] <kaminpum> ไปละ
-[07:23:42] [Server thread/INFO]: [Not Secure] <kaminpum> ไปซักผ้า
-[07:23:46] [Server thread/INFO]: [Not Secure] <damorz> okay bye
-[07:23:47] [Server thread/INFO]: [Not Secure] <kaminpum> ไว้เจอกัน
-[07:23:49] [Server thread/INFO]: [Not Secure] <kaminpum> okie
-[07:23:49] [Server thread/INFO]: kaminpum lost connection: Disconnected
-[07:23:49] [Server thread/INFO]: kaminpum left the game
-[07:53:03] [Server thread/INFO]: damorz lost connection: Timed out
-[07:53:03] [Server thread/INFO]: damorz left the game
-[10:33:55] [Server thread/INFO]: kaminpum[/49.228.32.174:51602] logged in with entity id 1731414 at (96.83648600994059, 82.0, -349.9276552974516)
-[10:33:55] [Server thread/INFO]: kaminpum joined the game
-[10:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[10:34:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
-[10:40:36] [Server thread/INFO]: kaminpum lost connection: Disconnected
-[10:40:36] [Server thread/INFO]: kaminpum left the game
-[17:36:14] [Server thread/INFO]: ratwc[/124.120.6.172:50261] logged in with entity id 1734298 at (67.69999998807907, 93.0, -266.27100920838853)
-[17:36:14] [Server thread/INFO]: ratwc joined the game
-[17:37:26] [Server thread/INFO]: ratwc lost connection: Disconnected
-[17:37:26] [Server thread/INFO]: ratwc left the game
+[07:47:05] [Server thread/INFO]: ratwc[/124.120.6.172:50414] logged in with entity id 1735337 at (97.18959928947733, 82.0, -347.80982056547305)
+[07:47:05] [Server thread/INFO]: ratwc joined the game
+[07:47:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[07:47:36] [Server thread/INFO]: ratwc lost connection: Disconnected
+[07:47:36] [Server thread/INFO]: ratwc left the game
+[07:47:38] [Server thread/INFO]: ratwc[/124.120.6.172:50420] logged in with entity id 1735920 at (97.18959928947733, 82.0, -347.80982056547305)
+[07:47:38] [Server thread/INFO]: ratwc joined the game
+[07:48:33] [Server thread/INFO]: ratwc lost connection: Timed out
+[07:48:33] [Server thread/INFO]: ratwc left the game
+[07:48:36] [Server thread/INFO]: ratwc[/124.120.6.172:50424] logged in with entity id 1736809 at (97.18959928947733, 82.0, -347.80982056547305)
+[07:48:36] [Server thread/INFO]: ratwc joined the game
