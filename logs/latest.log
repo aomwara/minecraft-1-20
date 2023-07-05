@@ -1,41 +1,10 @@
-[04:11:18] [Server thread/INFO]: ratwc[/124.120.6.172:51000] logged in with entity id 1883779 at (27.869194238882514, 71.0, -186.06453444457674)
-[04:11:18] [Server thread/INFO]: ratwc joined the game
-[04:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[04:17:07] [Server thread/INFO]: ratwc lost connection: Disconnected
-[04:17:07] [Server thread/INFO]: ratwc left the game
-[04:17:21] [Server thread/INFO]: ratwc[/124.120.6.172:51008] logged in with entity id 1886707 at (-281.79593990882404, 36.0, -81.50244009866417)
-[04:17:21] [Server thread/INFO]: ratwc joined the game
-[04:29:41] [Server thread/INFO]: [Not Secure] <ratwc> -356 27
-[04:29:53] [Server thread/INFO]: [Not Secure] <ratwc> -355 27
-[05:18:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[05:20:10] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-887, y=66, z=-1061} gu{x=-887, y=68, z=-1061}
-[05:25:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[05:33:29] [Server thread/WARN]: Boat (vehicle of ratwc) moved too quickly! 10.562821593639967,0.0,0.0
-[05:37:24] [Server thread/WARN]: Boat (vehicle of ratwc) moved too quickly! 10.412377606893529,0.0,0.0
-[05:37:25] [Server thread/WARN]: Boat (vehicle of ratwc) moved too quickly! 10.956204393600444,0.0,0.0
-[05:37:44] [Server thread/INFO]: ratwc lost connection: Disconnected
-[05:37:44] [Server thread/INFO]: ratwc left the game
-[06:07:51] [Server thread/INFO]: ratwc[/124.120.6.172:51047] logged in with entity id 1915785 at (12.158442611002188, 120.0, -40.656941684353356)
-[06:07:51] [Server thread/INFO]: ratwc joined the game
-[06:08:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[06:09:21] [Server thread/INFO]: ratwc lost connection: Disconnected
-[06:09:21] [Server thread/INFO]: ratwc left the game
-[14:58:46] [Server thread/INFO]: ratwc[/124.120.6.172:51142] logged in with entity id 1917084 at (166.85777147792342, 88.0, -290.83795244203753)
-[14:58:46] [Server thread/INFO]: ratwc joined the game
-[15:03:14] [Server thread/WARN]: Boat (vehicle of ratwc) moved too quickly! -10.413069017327487,0.0,0.0
-[15:03:15] [Server thread/WARN]: Boat (vehicle of ratwc) moved too quickly! -12.02324236721148,0.0,0.022557604032087397
-[15:03:16] [Server thread/WARN]: Boat (vehicle of ratwc) moved too quickly! -10.617781001287113,0.0,0.07072310623418687
-[15:03:16] [Server thread/WARN]: Boat (vehicle of ratwc) moved too quickly! -13.299047632087735,0.0,0.09044983984919597
-[15:03:25] [Server thread/WARN]: Boat (vehicle of ratwc) moved too quickly! -10.312659515192706,0.0,0.0
-[15:05:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-307, y=16, z=15} gu{x=-306, y=15, z=15}
-[15:12:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-343, y=18, z=-27} gu{x=-344, y=17, z=-23}
-[15:12:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-343, y=18, z=-27} gu{x=-344, y=17, z=-23}
-[15:12:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-343, y=18, z=-27} gu{x=-344, y=17, z=-23}
-[15:12:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-343, y=18, z=-27} gu{x=-344, y=17, z=-23}
-[15:12:01] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-343, y=18, z=-27} gu{x=-344, y=17, z=-23}
-[15:12:01] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-343, y=18, z=-27} gu{x=-344, y=17, z=-23}
-[15:12:01] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-343, y=18, z=-27} gu{x=-344, y=17, z=-23}
-[15:12:01] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-343, y=18, z=-27} gu{x=-344, y=17, z=-23}
-[15:12:01] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-343, y=18, z=-27} gu{x=-344, y=17, z=-23}
-[15:31:31] [Server thread/INFO]: ratwc lost connection: Disconnected
-[15:31:31] [Server thread/INFO]: ratwc left the game
+[15:45:38] [Server thread/INFO]: ratwc[/124.120.6.172:52328] logged in with entity id 1928002 at (101.01395560906354, 86.0, -294.0343903078713)
+[15:45:38] [Server thread/INFO]: ratwc joined the game
+[15:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[15:46:52] [Server thread/INFO]: aomwara[/49.228.37.135:60908] logged in with entity id 1929201 at (99.21819969297388, 86.0, -275.5830814125793)
+[15:46:52] [Server thread/INFO]: aomwara joined the game
+[15:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[15:49:33] [Server thread/INFO]: aomwara lost connection: Disconnected
+[15:49:33] [Server thread/INFO]: aomwara left the game
+[15:58:15] [Server thread/INFO]: ratwc lost connection: Disconnected
+[15:58:15] [Server thread/INFO]: ratwc left the game
