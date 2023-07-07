@@ -173,9 +173,11 @@
       "pumpkin_pie": "2023-06-14 17:02:02 +0000",
       "bread": "2023-06-11 17:07:19 +0000",
       "rotten_flesh": "2023-06-09 16:39:25 +0000",
+      "cookie": "2023-07-07 16:43:35 +0000",
       "golden_carrot": "2023-07-01 11:47:44 +0000",
       "cooked_chicken": "2023-06-23 15:35:16 +0000",
-      "cooked_salmon": "2023-06-10 04:07:53 +0000"
+      "cooked_salmon": "2023-06-10 04:07:53 +0000",
+      "carrot": "2023-07-07 17:04:27 +0000"
     },
     "done": false
   },
@@ -1727,6 +1729,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2023-07-07 16:56:55 +0000",
       "minecraft:sheep": "2023-06-13 17:54:26 +0000",
       "minecraft:sniffer": "2023-07-01 07:13:24 +0000",
       "minecraft:cow": "2023-06-11 04:05:51 +0000",
@@ -3834,6 +3837,72 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2023-07-07 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2023-07-07 16:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2023-07-07 16:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-07-07 16:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-07-07 16:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-07-07 16:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-07-07 16:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-07-07 16:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-07-07 16:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-07-07 16:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-07-07 16:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2023-07-07 16:02:35 +0000"
     },
     "done": true
   },
