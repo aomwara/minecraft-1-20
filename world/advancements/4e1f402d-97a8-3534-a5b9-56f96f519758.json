@@ -26,6 +26,7 @@
       "minecraft:snowy_plains": "2023-07-01 17:42:00 +0000",
       "minecraft:dripstone_caves": "2023-06-09 16:22:56 +0000",
       "minecraft:swamp": "2023-06-13 15:40:57 +0000",
+      "minecraft:grove": "2023-07-07 14:50:31 +0000",
       "minecraft:jagged_peaks": "2023-06-14 16:26:23 +0000",
       "minecraft:cold_ocean": "2023-06-09 16:53:52 +0000",
       "minecraft:forest": "2023-06-10 04:16:19 +0000",
@@ -3656,75 +3657,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2023-07-01 18:08:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-07-01 16:56:24 +0000"
     },
     "done": true
   },
-  "minecraft:end/dragon_egg": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "dragon_egg": "2023-07-01 18:38:02 +0000"
+      "has_glowstone_dust": "2023-07-01 17:25:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_end_stone": "2023-07-01 18:04:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2023-07-01 17:52:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2023-07-01 17:50:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2023-07-01 18:16:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2023-07-01 18:07:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2023-07-01 18:04:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2023-07-01 18:04:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2023-07-01 18:41:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2023-07-01 17:52:59 +0000"
+      "has_glowstone_dust": "2023-07-01 17:25:49 +0000"
     },
     "done": true
   },
@@ -3734,15 +3681,27 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "entered_end": "2023-07-01 17:58:26 +0000"
+      "has_ender_eye": "2023-07-01 17:50:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_glowstone_dust": "2023-07-01 17:25:49 +0000"
+      "has_ender_eye": "2023-07-01 17:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-07-01 17:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-07-01 17:52:59 +0000"
     },
     "done": true
   },
@@ -3758,21 +3717,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2023-07-01 17:25:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2023-07-01 17:50:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2023-07-01 17:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-07-01 17:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-07-01 17:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-07-01 17:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-07-01 18:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2023-07-01 18:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-07-01 18:04:49 +0000"
     },
     "done": true
   },
@@ -3788,15 +3771,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+  "minecraft:end/enter_end_gateway": {
     "criteria": {
-      "has_mossy_stone_bricks": "2023-07-01 17:52:59 +0000"
+      "entered_end_gateway": "2023-07-01 18:07:50 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "entered_end": "2023-07-01 17:58:26 +0000"
+      "has_chorus_fruit": "2023-07-01 18:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-07-01 18:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2023-07-01 18:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-07-01 18:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2023-07-07 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-07-07 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-07-07 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2023-07-07 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-07-07 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2023-07-07 15:30:33 +0000"
     },
     "done": true
   },

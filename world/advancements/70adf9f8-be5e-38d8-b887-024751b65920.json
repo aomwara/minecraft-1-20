@@ -271,7 +271,8 @@
       "suspicious_stew": "2023-06-19 17:53:41 +0000",
       "dried_kelp": "2023-06-19 17:52:49 +0000",
       "cooked_chicken": "2023-06-16 17:20:12 +0000",
-      "enchanted_golden_apple": "2023-06-10 17:36:55 +0000"
+      "enchanted_golden_apple": "2023-06-10 17:36:55 +0000",
+      "cod": "2023-07-07 15:25:53 +0000"
     },
     "done": false
   },
@@ -2373,21 +2374,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2023-06-21 17:07:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2023-06-21 17:07:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2023-06-21 17:18:41 +0000"
     },
     "done": true
   },
@@ -2397,9 +2386,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
-      "has_obsidian": "2023-06-21 17:18:41 +0000"
+      "has_deepslate_diamond_ore": "2023-06-21 17:07:50 +0000"
     },
     "done": true
   },
@@ -2408,6 +2397,62 @@
       "has_deepslate_diamond_ore": "2023-06-21 17:07:50 +0000"
     },
     "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-06-21 17:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-06-21 17:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-07-07 15:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-07-07 15:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-07-07 15:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2023-07-07 15:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-07-07 15:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2023-07-07 15:29:24 +0000",
+      "minecraft:tabby": "2023-07-07 15:29:38 +0000",
+      "minecraft:calico": "2023-07-07 15:26:41 +0000",
+      "minecraft:siamese": "2023-07-07 15:29:25 +0000",
+      "minecraft:jellie": "2023-07-07 15:29:28 +0000",
+      "minecraft:persian": "2023-07-07 15:25:55 +0000",
+      "minecraft:ragdoll": "2023-07-07 15:29:24 +0000",
+      "minecraft:british_shorthair": "2023-07-07 15:29:25 +0000",
+      "minecraft:red": "2023-07-07 15:29:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3463
 }
