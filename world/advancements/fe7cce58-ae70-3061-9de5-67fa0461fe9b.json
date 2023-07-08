@@ -4666,27 +4666,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
-      "has_polished_diorite": "2023-07-07 15:57:48 +0000"
+      "has_nether_gold_ore": "2023-07-07 13:55:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
-      "has_polished_diorite": "2023-07-07 15:57:48 +0000"
+      "has_nether_gold_ore": "2023-07-07 13:55:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-07-07 14:19:52 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2023-07-07 14:39:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2023-07-07 13:55:08 +0000"
     },
     "done": true
   },
@@ -4732,18 +4732,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2023-07-07 13:55:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2023-07-07 15:57:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2023-07-07 14:39:27 +0000"
@@ -4756,13 +4744,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
-      "has_polished_diorite": "2023-07-07 15:57:48 +0000"
+      "has_polished_blackstone": "2023-07-07 14:39:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2023-07-07 14:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2023-07-07 14:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2023-07-07 14:39:27 +0000"
     },
@@ -4786,12 +4786,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2023-07-07 14:39:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2023-07-07 15:26:46 +0000"
@@ -4804,21 +4798,27 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
-      "netherite_armor": "2023-07-07 14:19:52 +0000"
+      "has_polished_diorite": "2023-07-07 15:57:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
-      "has_polished_blackstone": "2023-07-07 14:39:27 +0000"
+      "has_polished_diorite": "2023-07-07 15:57:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
-      "has_polished_blackstone": "2023-07-07 14:39:27 +0000"
+      "has_polished_diorite": "2023-07-07 15:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-07-07 15:57:48 +0000"
     },
     "done": true
   },
