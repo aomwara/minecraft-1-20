@@ -4979,7 +4979,79 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2023-07-10 15:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2023-07-10 15:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2023-07-10 15:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2023-07-10 15:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2023-07-10 15:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2023-07-10 15:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2023-07-10 15:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2023-07-10 15:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2023-07-10 15:59:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2023-07-10 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2023-07-10 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2023-07-10 15:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2023-07-10 15:59:03 +0000"
     },
@@ -4991,39 +5063,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2023-07-10 15:59:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2023-07-10 15:52:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2023-07-10 15:59:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2023-07-10 15:59:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_wet_sponge": "2023-07-10 15:51:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
-    "criteria": {
-      "has_prismarine_bricks": "2023-07-10 15:59:01 +0000"
     },
     "done": true
   },
@@ -5039,57 +5081,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2023-07-10 15:52:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2023-07-10 15:59:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2023-07-10 15:52:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2023-07-10 15:59:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2023-07-10 15:52:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
-    "criteria": {
-      "has_prismarine_bricks": "2023-07-10 15:59:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2023-07-10 15:59:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
-    "criteria": {
-      "has_dark_prismarine": "2023-07-10 15:59:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2023-07-10 15:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2023-07-11 12:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2023-07-11 12:34:03 +0000"
     },
     "done": true
   },
