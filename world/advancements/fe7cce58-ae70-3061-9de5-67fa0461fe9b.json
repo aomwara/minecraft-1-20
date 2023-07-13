@@ -2117,6 +2117,7 @@
       "minecraft:sheep": "2023-06-25 09:03:25 +0000",
       "minecraft:sniffer": "2023-06-30 16:27:06 +0000",
       "minecraft:cow": "2023-06-11 07:40:13 +0000",
+      "minecraft:chicken": "2023-07-13 15:13:51 +0000",
       "minecraft:bee": "2023-06-16 17:39:05 +0000",
       "minecraft:axolotl": "2023-06-30 17:19:10 +0000"
     },
@@ -5102,6 +5103,30 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2023-07-11 12:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2023-07-13 14:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2023-07-13 14:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-07-13 14:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2023-07-13 14:44:23 +0000"
     },
     "done": true
   },
