@@ -4271,5 +4271,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2023-07-17 15:31:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3463
 }
