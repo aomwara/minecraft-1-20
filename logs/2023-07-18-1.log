@@ -1,0 +1,204 @@
+[23:06:28] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:06:35] [ServerMain/INFO]: Loaded 7 recipes
+[23:06:37] [ServerMain/INFO]: Loaded 1271 advancements
+[23:06:39] [Server thread/INFO]: Starting minecraft server version 1.20
+[23:06:39] [Server thread/INFO]: Loading properties
+[23:06:39] [Server thread/INFO]: Default game type: SURVIVAL
+[23:06:39] [Server thread/INFO]: Generating keypair
+[23:06:39] [Server thread/INFO]: Starting Minecraft server on *:30169
+[23:06:39] [Server thread/INFO]: Using epoll channel type
+[23:06:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:06:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:06:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:06:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:06:40] [Server thread/INFO]: Preparing level "world"
+[23:06:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:07:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:07:53] [Server thread/INFO]: Time elapsed: 57414 ms
+[23:07:53] [Server thread/INFO]: Done (73.291s)! For help, type "help"
+[23:08:14] [Server thread/INFO]: ratwc[/124.120.2.90:52763] logged in with entity id 180 at (340.3671016406461, 137.0, -247.89659074129256)
+[23:08:15] [Server thread/INFO]: ratwc joined the game
+[23:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5498ms or 109 ticks behind
+[23:08:26] [Server thread/INFO]: kaminpum[/184.22.202.56:57159] logged in with entity id 482 at (621.6999999880791, 81.5625, -332.69999998807907)
+[23:08:26] [Server thread/INFO]: kaminpum joined the game
+[23:08:31] [Server thread/WARN]: ratwc moved too quickly! -16.442112008786125,-5.6824199812180325,-3.5357993313061797
+[23:09:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 43445ms or 868 ticks behind
+[23:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23579ms or 471 ticks behind
+[23:10:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11233ms or 224 ticks behind
+[23:10:28] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[23:10:28] [Server thread/INFO]: kaminpum left the game
+[23:10:30] [Server thread/INFO]: kaminpum[/184.22.202.56:57202] logged in with entity id 1337 at (502.83840952766275, 69.0, -329.7376471514577)
+[23:10:30] [Server thread/INFO]: kaminpum joined the game
+[23:10:50] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[23:10:50] [Server thread/INFO]: kaminpum left the game
+[23:10:53] [Server thread/INFO]: kaminpum[/184.22.202.56:57206] logged in with entity id 1462 at (502.83840952766275, 69.0, -329.7376471514577)
+[23:10:53] [Server thread/INFO]: kaminpum joined the game
+[23:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23563ms or 471 ticks behind
+[23:11:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28899ms or 577 ticks behind
+[23:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26414ms or 528 ticks behind
+[23:13:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29658ms or 593 ticks behind
+[23:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16561ms or 331 ticks behind
+[23:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11042ms or 220 ticks behind
+[23:14:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11294ms or 225 ticks behind
+[23:14:41] [Server thread/INFO]: Rocketeer1806[/171.5.239.252:20161] logged in with entity id 3112 at (484.7073876891541, 71.0, -325.00176512931455)
+[23:14:41] [Server thread/INFO]: Rocketeer1806 joined the game
+[23:14:45] [Server thread/WARN]: kaminpum moved too quickly! 17.186801109031705,-2.1395703909074797,-2.7398048280056173
+[23:14:54] [Server thread/WARN]: ratwc moved too quickly! 17.15517064781659,4.834175800941907,-3.4598756049846884
+[23:15:06] [Server thread/WARN]: Rocketeer1806 moved too quickly! -7.057094277915041,1.66802324340577,16.2102281249488
+[23:15:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37192ms or 743 ticks behind
+[23:15:29] [Server thread/WARN]: Rocketeer1806 moved too quickly! 10.155947978295728,-2.06725068410168,-15.599150638155379
+[23:15:48] [Server thread/WARN]: kaminpum moved too quickly! 5.922229427921536,0.693559345209934,-17.25398987646639
+[23:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33826ms or 676 ticks behind
+[23:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7241ms or 144 ticks behind
+[23:17:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23:17:32] [Server thread/WARN]: kaminpum moved too quickly! -15.398437233513278,1.809450305256206,9.527952359297444
+[23:17:38] [Server thread/WARN]: Rocketeer1806 moved too quickly! -8.558337684901062,2.3983820298896887,15.826766716043323
+[23:17:38] [Server thread/WARN]: kaminpum moved too quickly! -15.49753083038604,1.5675102240820138,9.429320345286214
+[23:17:46] [Server thread/WARN]: Rocketeer1806 moved too quickly! -10.587614731101155,1.8704769571314444,14.743552283415681
+[23:17:46] [Server thread/WARN]: kaminpum moved too quickly! -14.44094375359873,-2.2387282218229387,10.508287920108899
+[23:17:54] [Server thread/WARN]: Rocketeer1806 moved too quickly! -11.274146815876804,-2.45557793870924,14.793904214082943
+[23:17:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41454ms or 829 ticks behind
+[23:17:59] [Server thread/WARN]: Rocketeer1806 moved too quickly! -14.121552314000667,-3.3010631541281157,11.30749387450453
+[23:18:43] [Server thread/WARN]: Rocketeer1806 moved too quickly! -15.166145185698838,-1.1201162392221562,-10.073096803178117
+[23:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39932ms or 798 ticks behind
+[23:19:11] [Server thread/WARN]: ratwc moved too quickly! -17.687620409930076,-1.7085785756571426,-5.614651929921081
+[23:19:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37824ms or 756 ticks behind
+[23:20:18] [Server thread/WARN]: ratwc moved wrongly!
+[23:20:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27754ms or 555 ticks behind
+[23:21:11] [Server thread/INFO]: ratwc lost connection: Disconnected
+[23:21:11] [Server thread/INFO]: ratwc left the game
+[23:21:11] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[23:21:11] [Server thread/INFO]: kaminpum left the game
+[23:21:11] [Server thread/INFO]: Rocketeer1806 lost connection: Disconnected
+[23:21:11] [Server thread/INFO]: Rocketeer1806 left the game
+[23:21:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b4a7390[id=<null>,name=ratwc,properties={},legacy=false] (/124.120.2.90:52824) lost connection: Disconnected
+[23:21:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 46236ms or 924 ticks behind
+[23:22:51] [Server thread/INFO]: ratwc[/124.120.2.90:52854] logged in with entity id 6147 at (93.2492017334875, 85.3298403762555, -328.22663100069144)
+[23:22:51] [Server thread/INFO]: ratwc joined the game
+[23:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[23:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20384ms or 407 ticks behind
+[23:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17017ms or 340 ticks behind
+[23:24:02] [Server thread/INFO]: kaminpum[/184.22.202.56:57424] logged in with entity id 7501 at (19.042749479051558, 121.0, -37.14679314048768)
+[23:24:02] [Server thread/INFO]: kaminpum joined the game
+[23:24:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22222ms or 444 ticks behind
+[23:25:03] [Server thread/WARN]: Boat (vehicle of kaminpum) moved too quickly! 0.0,0.0,10.73069465946466
+[23:25:05] [Server thread/WARN]: Boat (vehicle of kaminpum) moved too quickly! -0.026007942832478648,0.0,11.35739763836861
+[23:25:05] [Server thread/WARN]: Boat (vehicle of kaminpum) moved too quickly! -0.06950855259179889,0.0,12.784261078031115
+[23:25:16] [Server thread/INFO]: ratwc lost connection: Disconnected
+[23:25:16] [Server thread/INFO]: ratwc left the game
+[23:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22947ms or 458 ticks behind
+[23:25:18] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[23:25:18] [Server thread/INFO]: kaminpum left the game
+[23:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4579ms or 91 ticks behind
