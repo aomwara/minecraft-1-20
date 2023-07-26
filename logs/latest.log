@@ -1,2 +1,14 @@
-[00:16:07] [Server thread/INFO]: ratwc lost connection: Disconnected
-[00:16:07] [Server thread/INFO]: ratwc left the game
+[12:35:50] [Server thread/INFO]: kaminpum[/49.228.18.148:51204] logged in with entity id 118068 at (-1765.699999988079, 71.0, -1102.699999988079)
+[12:35:50] [Server thread/INFO]: kaminpum joined the game
+[12:38:24] [Server thread/INFO]: [Not Secure] <kaminpum> -1170 70 -1040
+[12:44:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6472ms or 129 ticks behind
+[12:51:58] [Server thread/WARN]: kaminpum moved too quickly! 16.104134817218437,-1.8195187778907211,8.845523841207978
+[12:52:18] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[12:52:18] [Server thread/INFO]: kaminpum left the game
+[16:03:32] [Server thread/INFO]: kaminpum[/49.228.18.148:63201] logged in with entity id 134532 at (-8347.156510070932, 66.0, -11063.527790581338)
+[16:03:32] [Server thread/INFO]: kaminpum joined the game
+[16:14:26] [Server thread/WARN]: kaminpum moved too quickly! 14.832498234993864,-1.8956316801765922,11.42511965104768
+[16:22:36] [Server thread/WARN]: Boat (vehicle of kaminpum) moved too quickly! -10.285092136641367,0.0,0.0961118226043638
+[16:22:36] [Server thread/WARN]: Boat (vehicle of kaminpum) moved too quickly! -12.072424474341858,0.0,0.0891489796195799
+[16:23:32] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[16:23:32] [Server thread/INFO]: kaminpum left the game
