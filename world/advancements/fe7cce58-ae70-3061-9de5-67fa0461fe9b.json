@@ -5287,5 +5287,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2023-07-28 00:02:00 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3463
 }
