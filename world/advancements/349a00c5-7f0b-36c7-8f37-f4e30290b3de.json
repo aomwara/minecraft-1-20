@@ -406,6 +406,7 @@
       "minecraft:spider": "2023-06-10 16:04:07 +0700",
       "minecraft:piglin_brute": "2023-06-11 15:14:20 +0700",
       "minecraft:creeper": "2023-06-09 22:52:29 +0700",
+      "minecraft:wither": "2023-07-28 23:09:27 +0700",
       "minecraft:slime": "2023-06-12 20:53:21 +0700",
       "minecraft:evoker": "2023-06-20 23:30:36 +0700",
       "minecraft:phantom": "2023-06-21 22:52:40 +0700",
@@ -5026,7 +5027,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-07-27 23:29:12 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-07-27 23:30:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2023-07-27 23:30:38 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2023-07-27 23:41:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2023-07-27 23:41:01 +0700"
     },
@@ -5038,27 +5063,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+  "minecraft:nether/create_beacon": {
     "criteria": {
-      "has_nether_gold_ore": "2023-07-27 23:41:01 +0700"
+      "beacon": "2023-07-28 23:37:18 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "has_stripped_logs": "2023-07-27 23:30:38 +0700"
+      "dragon_breath": "2023-07-28 22:48:05 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
+  "minecraft:nether/create_full_beacon": {
     "criteria": {
-      "has_carved_pumpkin": "2023-07-27 23:29:12 +0700"
+      "beacon": "2023-07-28 23:37:18 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "has_log": "2023-07-27 23:30:38 +0700"
+      "summoned": "2023-07-28 23:08:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-07-28 23:09:30 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2023-07-28 22:54:00 +0700"
     },
     "done": true
   },

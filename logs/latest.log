@@ -1,15 +1,2 @@
-[00:02:00] [Server thread/INFO]: ratwc has reached the goal [Hired Help]
-[00:08:44] [Server thread/INFO]: [Not Secure] <ratwc> 1456 69 -557
-[00:17:42] [Server thread/INFO]: [Not Secure] <ratwc> 195
-[00:20:30] [Server thread/INFO]: [kaminpum: Teleported kaminpum to ratwc]
-[00:30:49] [Server thread/INFO]: kaminpum lost connection: Disconnected
-[00:30:49] [Server thread/INFO]: kaminpum left the game
-[00:35:50] [Server thread/INFO]: [Not Secure] <ratwc> 1456 199 -560
-[00:38:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4322ms or 86 ticks behind
-[00:47:12] [Server thread/INFO]: [Not Secure] <ratwc> 11648 198 -4480
-[00:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[01:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
-[01:08:18] [Server thread/INFO]: [ratwc: Set own game mode to Spectator Mode]
-[01:08:46] [Server thread/INFO]: [ratwc: Set own game mode to Survival Mode]
-[01:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:03:28] [Server thread/INFO]: ratwc lost connection: Disconnected
+[00:03:28] [Server thread/INFO]: ratwc left the game

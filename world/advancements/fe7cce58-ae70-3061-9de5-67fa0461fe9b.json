@@ -322,6 +322,7 @@
       "cooked_cod": "2023-06-12 23:39:17 +0700",
       "poisonous_potato": "2023-06-21 22:51:46 +0700",
       "bread": "2023-06-09 23:07:26 +0700",
+      "golden_apple": "2023-07-28 23:09:20 +0700",
       "rotten_flesh": "2023-06-09 22:32:40 +0700",
       "glow_berries": "2023-06-11 22:45:53 +0700",
       "golden_carrot": "2023-07-02 01:00:13 +0700",
@@ -358,6 +359,7 @@
       "minecraft:spider": "2023-06-10 01:01:40 +0700",
       "minecraft:piglin_brute": "2023-06-14 21:10:39 +0700",
       "minecraft:creeper": "2023-06-09 23:02:20 +0700",
+      "minecraft:wither": "2023-07-28 23:12:42 +0700",
       "minecraft:slime": "2023-06-13 22:42:19 +0700",
       "minecraft:evoker": "2023-06-20 23:28:08 +0700",
       "minecraft:phantom": "2023-06-17 23:01:46 +0700",
@@ -5290,6 +5292,42 @@
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2023-07-28 00:02:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2023-07-28 22:52:55 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-07-28 23:08:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-07-28 23:12:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2023-07-28 23:19:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2023-07-28 23:37:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2023-07-28 23:37:14 +0700"
     },
     "done": true
   },
