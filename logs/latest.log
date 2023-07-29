@@ -1,2 +1,24 @@
-[00:03:28] [Server thread/INFO]: ratwc lost connection: Disconnected
-[00:03:28] [Server thread/INFO]: ratwc left the game
+[00:13:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=286, y=24, z=-453} gu{x=287, y=23, z=-453}
+[00:13:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=286, y=24, z=-453} gu{x=287, y=23, z=-453}
+[00:13:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=286, y=24, z=-453} gu{x=287, y=23, z=-453}
+[00:13:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=286, y=24, z=-453} gu{x=287, y=23, z=-453}
+[00:13:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=282, y=25, z=-453} gu{x=283, y=25, z=-453}
+[00:24:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=337, y=18, z=-437} gu{x=338, y=17, z=-437}
+[00:24:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=339, y=16, z=-437} gu{x=340, y=15, z=-437}
+[00:24:15] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=342, y=13, z=-437} gu{x=344, y=11, z=-437}
+[00:40:50] [Server thread/WARN]: kaminpum moved wrongly!
+[00:47:35] [Server thread/WARN]: ratwc moved wrongly!
+[00:52:20] [Server thread/WARN]: kaminpum moved wrongly!
+[00:52:26] [Server thread/WARN]: kaminpum moved wrongly!
+[00:52:27] [Server thread/WARN]: kaminpum moved wrongly!
+[00:52:28] [Server thread/WARN]: kaminpum moved wrongly!
+[00:52:29] [Server thread/WARN]: kaminpum moved wrongly!
+[00:54:27] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[00:54:27] [Server thread/INFO]: kaminpum left the game
+[00:54:31] [Server thread/INFO]: kaminpum[/101.108.185.109:53466] logged in with entity id 394902 at (620.4978630498898, 75.5625, -335.0685326756333)
+[00:54:31] [Server thread/INFO]: kaminpum joined the game
+[00:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[01:00:31] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[01:00:31] [Server thread/INFO]: kaminpum left the game
+[01:00:35] [Server thread/INFO]: ratwc lost connection: Disconnected
+[01:00:35] [Server thread/INFO]: ratwc left the game
