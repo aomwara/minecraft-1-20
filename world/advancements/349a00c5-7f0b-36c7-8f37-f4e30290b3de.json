@@ -5355,5 +5355,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2023-08-03 23:38:02 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3463
 }
