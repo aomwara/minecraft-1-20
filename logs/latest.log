@@ -277,3 +277,50 @@
 [01:16:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
 [01:21:34] [Server thread/INFO]: mboon lost connection: Disconnected
 [01:21:34] [Server thread/INFO]: mboon left the game
+[11:38:31] [Server thread/INFO]: mboon[/184.22.247.6:57969] logged in with entity id 917202 at (98.57839262516836, 82.0, -336.9345303938551)
+[11:38:31] [Server thread/INFO]: mboon joined the game
+[11:51:07] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[11:53:19] [Server thread/INFO]: [mboon: Teleported mboon to 368.500000, 98.000000, -1503.500000]
+[11:54:04] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=368, y=27, z=-1504} gu{x=367, y=28, z=-1497}
+[11:55:17] [Server thread/INFO]: [mboon: Set own game mode to Spectator Mode]
+[11:56:19] [Server thread/INFO]: [mboon: Set own game mode to Survival Mode]
+[12:03:07] [Server thread/INFO]: [mboon: Set own game mode to Creative Mode]
+[12:10:58] [Server thread/INFO]: [mboon: Set own game mode to Survival Mode]
+[12:18:13] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[12:18:26] [Server thread/INFO]: [mboon: Set own game mode to Spectator Mode]
+[12:18:44] [Server thread/INFO]: [mboon: Teleported mboon to -1583.500000, 65.119352, 448.500000]
+[12:18:53] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[12:18:57] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[12:19:24] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[12:21:10] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[12:22:11] [Server thread/INFO]: Locating element minecraft:end_city took 21 ms
+[12:22:26] [Server thread/INFO]: [mboon: Teleported mboon to -1599.500000, 133.314091, -2207.500000]
+[12:22:26] [Server thread/WARN]: mboon moved too quickly! 608.4330063440643,0.0,-794.3266694711126
+[12:23:43] [Server thread/INFO]: [mboon: Teleported mboon to -1247.500000, 96.940457, -863.500000]
+[12:23:43] [Server thread/WARN]: mboon moved too quickly! 265.2779474445738,0.0,855.1379306404581
+[12:24:06] [Server thread/INFO]: [mboon: Teleported mboon to -1599.500000, 95.820787, -2207.500000]
+[12:24:06] [Server thread/WARN]: mboon moved too quickly! -354.81941832184725,0.0,-1396.191771450246
+[12:24:50] [Server thread/INFO]: Locating element minecraft:end_city took 0 ms
+[12:25:02] [Server thread/INFO]: Locating element minecraft:end_city took 5 ms
+[12:25:20] [Server thread/INFO]: [mboon: Teleported mboon to -1855.500000, 95.820787, -3167.500000]
+[12:25:47] [Server thread/INFO]: [mboon: Set own game mode to Survival Mode]
+[12:36:00] [Server thread/INFO]: [mboon: Teleported mboon to -1583.500000, 63.000000, 448.500000]
+[12:38:23] [Server thread/INFO]: [mboon: Set own game mode to Spectator Mode]
+[12:39:03] [Server thread/INFO]: [mboon: Set own game mode to Survival Mode]
+[12:39:35] [Server thread/INFO]: mboon lost connection: Disconnected
+[12:39:35] [Server thread/INFO]: mboon left the game
+[12:39:56] [Server thread/INFO]: mboon[/184.22.247.6:58091] logged in with entity id 941584 at (-1065.7526978616047, 39.56704597497322, 27.452719284381615)
+[12:39:56] [Server thread/INFO]: mboon joined the game
+[12:39:59] [Server thread/INFO]: [mboon: Set own game mode to Creative Mode]
+[12:40:01] [Server thread/INFO]: mboon fell out of the world
+[12:40:39] [Server thread/INFO]: [mboon: Set own game mode to Survival Mode]
+[12:41:14] [Server thread/INFO]: mboon lost connection: Disconnected
+[12:41:14] [Server thread/INFO]: mboon left the game
+[15:17:27] [Server thread/INFO]: kaminpum[/184.22.212.83:51634] logged in with entity id 943043 at (340.69999998807907, 143.0, -232.49277946881364)
+[15:17:27] [Server thread/INFO]: kaminpum joined the game
+[15:28:00] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[15:28:00] [Server thread/INFO]: kaminpum left the game
+[21:32:08] [Server thread/INFO]: Rocketeer1806[/171.5.229.36:65506] logged in with entity id 945374 at (331.79049311529445, 94.0, -456.482374470869)
+[21:32:08] [Server thread/INFO]: Rocketeer1806 joined the game
+[21:43:24] [Server thread/INFO]: Rocketeer1806 lost connection: Disconnected
+[21:43:24] [Server thread/INFO]: Rocketeer1806 left the game
