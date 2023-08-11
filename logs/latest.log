@@ -1,4 +1,25 @@
-[21:42:35] [Server thread/INFO]: Rocketeer1806[/171.5.239.199:7649] logged in with entity id 1057632 at (689.0009077128803, 66.0, -222.5766643180954)
-[21:42:35] [Server thread/INFO]: Rocketeer1806 joined the game
-[21:43:22] [Server thread/INFO]: Rocketeer1806 lost connection: Disconnected
-[21:43:22] [Server thread/INFO]: Rocketeer1806 left the game
+[16:12:07] [Server thread/INFO]: kaminpum[/49.228.70.132:56467] logged in with entity id 1059029 at (626.7502050986706, 80.0, -322.4510089389432)
+[16:12:07] [Server thread/INFO]: kaminpum joined the game
+[16:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[16:15:01] [Server thread/WARN]: kaminpum moved too quickly! -11.729438815110825,-2.111154472115601,-13.894655557685155
+[16:16:03] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[16:16:03] [Server thread/INFO]: kaminpum left the game
+[16:16:10] [Server thread/INFO]: kaminpum[/49.228.70.132:56494] logged in with entity id 1064350 at (-2233.2105512558974, 63.0, -1866.300000011921)
+[16:16:10] [Server thread/INFO]: kaminpum joined the game
+[16:18:41] [Server thread/WARN]: kaminpum moved too quickly! 10.855672938279326,-1.3712709056848098,-15.191650907061103
+[16:18:53] [Server thread/WARN]: kaminpum moved too quickly! 14.037173980015723,-1.4694609590121956,-10.96461580717505
+[16:19:22] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:19:27] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:19:27] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:19:27] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:19:27] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:19:27] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:19:27] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:19:31] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:19:31] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:19:31] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:19:31] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:19:34] [Server thread/ERROR]: Block entity has invalid type: DUMMY
+[16:20:03] [Server thread/INFO]: [kaminpum: Teleported kaminpum to 0.500000, 102.000000, 0.500000]
+[16:21:50] [Server thread/INFO]: kaminpum lost connection: Disconnected
+[16:21:50] [Server thread/INFO]: kaminpum left the game
