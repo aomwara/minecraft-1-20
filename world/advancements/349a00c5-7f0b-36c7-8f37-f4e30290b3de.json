@@ -5368,5 +5368,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2023-08-12 22:11:51 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2023-08-12 22:11:51 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3463
 }
